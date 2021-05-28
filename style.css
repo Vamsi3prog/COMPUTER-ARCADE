@@ -1,0 +1,49 @@
+ h1{
+   color: #00FFFF;
+   text-align: center;
+ }
+  h2{
+   color: #FF69B4;
+   text-align: center;
+ }
+  h3{
+   color: #FFD700;
+   text-align: center;
+ }
+ .box{
+   display: inline-block;
+ }
+ .pacman{
+   color: #CD5C5C;
+   height: 100px;
+   width: 150px;
+  
+ }
+ .tetris{
+   color: #00FF00;
+   padding-left: 15%;
+   height: 100px;
+   width: 150px;
+ }
+ .a{
+  display: inline-block;
+ }
+ .spaceinvaders{
+   color: #A0522D;
+   padding-left: 10%;
+   height: 100px;
+   width: 150px;
+ }
+ .dinorun{
+   color: #7B68EE;
+   padding-left: 10%;
+   height: 100px;
+   width: 150px;
+ }
+  a{
+    background-size: 60px 35px;
+    border-radius: 10px;
+    background-color: #7B6;
+    text-decoration: none;
+    color: black;
+  }
